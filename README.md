@@ -74,6 +74,28 @@ Final validation accuracy: 97.39%
     accuracy                           0.98     10000
 ```
 
+## Visualizations
+
+![Sample digits](images/sample_digits.png)
+
+*Example handwritten digits from dataset*
+
+
+![predictions](images/predictions.png)
+
+*Model predictions on test samples*
+
+
+![Model accuracy and loss over time](images/accuracy_loss.png)
+
+*Model accuracy and loss over 10 epochs*
+
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+*Classification performance across all 10 digits - 97.76% accuracy*
+
+
 ## Technologies
 
 - Python 
